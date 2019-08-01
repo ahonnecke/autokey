@@ -1,0 +1,30 @@
+{
+    "usageCount": 6, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Telegram Bind End", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "e", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "Telegram.TelegramDesktop", 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

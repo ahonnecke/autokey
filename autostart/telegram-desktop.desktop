@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/snap/bin/telegram-desktop
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en]=Telegram Desktop
+Name=Telegram
+Comment[en]=
+Comment=

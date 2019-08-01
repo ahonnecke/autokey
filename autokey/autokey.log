@@ -1,0 +1,159 @@
+2019-07-25 15:29:22,227 INFO - root - Initialising application
+2019-07-25 15:29:22,231 INFO - root - Initialise global hotkeys
+2019-07-25 15:29:22,232 INFO - config-manager - No configuration found - creating new one
+2019-07-25 15:29:22,234 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:29:22,234 INFO - config-manager - Persisting configuration
+2019-07-25 15:29:22,234 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-25 15:29:22,234 INFO - service - Starting service
+2019-07-25 15:29:22,295 INFO - interface - XRecord interface thread starting
+2019-07-25 15:29:22,295 INFO - service - Service now marked as running
+2019-07-25 15:29:22,344 INFO - root - Displaying configuration window
+2019-07-25 15:29:22,470 INFO - root - Entering main()
+2019-07-25 15:31:05,951 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:31:26,786 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:32:54,003 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:32:54,003 INFO - config-manager - Persisting configuration
+2019-07-25 15:32:54,003 INFO - config-manager - Backing up existing config file
+2019-07-25 15:32:54,004 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-25 15:33:59,217 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:55:19,673 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 15:55:40,152 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-07-25 15:56:30,214 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-07-25 15:59:29,610 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:00:00,500 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:00:16,166 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:00:54,372 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:01:06,170 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:01:20,713 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:01:36,691 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:01:37,643 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:01:46,649 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:01,949 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:02,930 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:12,968 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:42,835 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:43,966 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:02:43,966 INFO - config-manager - Persisting configuration
+2019-07-25 16:02:43,966 INFO - config-manager - Backing up existing config file
+2019-07-25 16:02:43,966 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-25 16:02:50,888 INFO - root - Displaying configuration window
+2019-07-25 16:04:41,396 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:04:41,397 INFO - config-manager - Persisting configuration
+2019-07-25 16:04:41,397 INFO - config-manager - Backing up existing config file
+2019-07-25 16:04:41,399 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-25 16:05:21,618 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:05:28,833 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:05:45,930 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:06:02,515 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:06:20,721 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:06:38,871 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:06:47,531 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:17,088 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:27,401 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:29,377 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:31,176 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:33,145 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:35,696 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:35,704 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-25 16:07:35,704 INFO - config-manager - Persisting configuration
+2019-07-25 16:07:35,705 INFO - config-manager - Backing up existing config file
+2019-07-25 16:07:35,706 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-28 08:14:14,186 INFO - root - Displaying configuration window
+2019-07-28 08:14:46,310 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-28 08:14:54,182 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-29 12:59:37,173 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-29 12:59:37,174 INFO - config-manager - Persisting configuration
+2019-07-29 12:59:37,174 INFO - config-manager - Backing up existing config file
+2019-07-29 12:59:37,175 INFO - config-manager - Finished persisting configuration - no errors
+2019-07-29 13:15:10,942 INFO - root - Displaying configuration window
+2019-07-29 16:19:31,674 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-07-29 16:19:31,675 INFO - config-manager - Persisting configuration
+2019-07-29 16:19:31,677 INFO - config-manager - Backing up existing config file
+2019-07-29 16:19:31,678 INFO - config-manager - Finished persisting configuration - no errors
+2019-08-01 10:47:06,315 INFO - root - Displaying configuration window
+2019-08-01 10:47:33,520 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:49:32,548 INFO - root - Initialising application
+2019-08-01 10:49:32,557 INFO - root - Initialise global hotkeys
+2019-08-01 10:49:32,558 INFO - config-manager - Loading config from existing file: /home/ahonnecke/.config/autokey/autokey.json
+2019-08-01 10:49:32,566 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:49:32,566 INFO - config-manager - Successfully loaded configuration
+2019-08-01 10:49:32,567 INFO - service - Starting service
+2019-08-01 10:49:32,667 INFO - interface - XRecord interface thread starting
+2019-08-01 10:49:32,668 INFO - service - Service now marked as running
+2019-08-01 10:49:32,767 INFO - root - Displaying configuration window
+2019-08-01 10:49:32,999 INFO - root - Entering main()
+2019-08-01 10:51:18,857 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:51:34,057 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:51:39,427 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:51:41,537 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:51:46,458 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:51:56,986 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:52:39,834 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:52:45,193 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:52:47,351 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:53:54,592 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:54:16,809 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:54:35,495 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:54:43,349 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:54:48,319 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:54:55,432 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:55:08,945 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:55:20,899 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:55:40,426 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 10:55:43,761 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:55:44,329 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:55:45,729 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:57:15,265 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 10:57:42,000 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:04:02,346 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:04:31,411 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:04:42,663 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:07:30,525 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:11:42,627 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:13:07,548 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:15:25,154 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 11:15:31,950 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 11:15:38,594 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:16:11,409 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 11:16:11,410 INFO - config-manager - Persisting configuration
+2019-08-01 11:16:11,410 INFO - config-manager - Backing up existing config file
+2019-08-01 11:16:11,412 INFO - config-manager - Finished persisting configuration - no errors
+2019-08-01 11:27:10,418 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:51:32,731 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 11:55:06,926 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:20:14,713 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:21:41,348 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:24:50,085 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:41:28,848 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:41:53,857 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:42:09,535 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:42:57,961 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:43:03,705 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:43:21,550 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:43:34,343 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:44:44,516 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:44:49,368 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:44:50,744 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:45:14,066 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:45:21,917 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:45:35,244 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:45:37,115 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:45:46,221 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:45:52,027 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:46:06,978 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:46:07,937 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:46:08,560 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:46:28,877 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:46:32,529 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:46:38,931 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:47:47,694 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:09,331 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:48:14,990 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:15,462 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:16,596 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:17,672 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:17,936 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:18,168 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-01 12:48:28,147 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:48:34,317 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-01 12:48:55,458 INFO - config-manager - Configuration changed - rebuilding in-memory structures

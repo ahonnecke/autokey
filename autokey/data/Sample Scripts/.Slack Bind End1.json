@@ -1,0 +1,28 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Slack Bind End", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "e", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "slack.Slack", 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}

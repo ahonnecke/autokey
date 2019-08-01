@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+#xmodmap -e "add mod3 = Hyper_L"
+#xmodmap -e "remove mod4 = Hyper_L"
+
+setxkbmap -print -v 0 \
+    | sed -e '/xkb_symbols/s/"[[:space:]]/+local&/' \
+    | xkbcomp -I${HOME}/.config/xkb - ${DISPLAY} -w 0 > /dev/null
