@@ -202,3 +202,32 @@
 2019-08-02 10:06:31,609 INFO - config-manager - Configuration changed - rebuilding in-memory structures
 2019-08-02 10:06:35,409 INFO - service - Matched hotkey phrase/script with prompt=False
 2019-08-02 10:09:59,072 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:13:56,165 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:29:24,198 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:35:25,722 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:36:23,674 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:36:48,641 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:59:24,454 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 10:59:54,612 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:20:42,091 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:20:43,684 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:24:44,694 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:24:47,538 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:25:21,442 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:25:23,961 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:26:34,627 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:30:32,021 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:30:37,766 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:30:40,538 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:30:41,514 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:31:02,333 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-02 11:47:31,571 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:47:32,429 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:47:41,789 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:48:01,530 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 11:51:19,368 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 12:03:38,593 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-02 12:03:42,569 INFO - service - Matched hotkey phrase/script with prompt=False
+2019-08-02 12:14:59,724 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-02 12:15:07,362 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2019-08-02 12:16:11,016 INFO - config-manager - Configuration changed - rebuilding in-memory structures
