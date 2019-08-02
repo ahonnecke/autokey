@@ -1,0 +1,28 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Chrome Bind Home", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "a", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "google-chrome.Google-chrome", 
+        "isRecursive": false
+    }, 
+    "type": "script", 
+    "store": {}
+}
